@@ -65,14 +65,6 @@ Leadership is about service. We support each other in achieving our goals and se
 - Mark questions as solved when answered
 - Don't post sensitive information
 
-**Example Posts:**
-```
-✅ GOOD: "Struggling with delegation - how do you balance 
-          micromanagement with giving autonomy?"
-
-❌ BAD: "Delegation sucks"
-```
-
 ### 2. Study Groups
 
 **Purpose:** Collaborate with peers on courses and projects
@@ -85,13 +77,6 @@ Leadership is about service. We support each other in achieving our goals and se
 - Celebrate achievements together
 - Keep group size manageable (8-15 people)
 
-**Recommended Activities:**
-- Weekly discussion calls
-- Shared study schedules
-- Project collaboration
-- Peer review of assignments
-- Accountability partnerships
-
 ### 3. Networking Events
 
 **Purpose:** Build professional connections
@@ -103,21 +88,6 @@ Leadership is about service. We support each other in achieving our goals and se
 - Exchange contact info appropriately
 - Respect boundaries
 - Don't make others uncomfortable
-
-**Do's:**
-- Introduce yourself genuinely
-- Ask meaningful questions
-- Share your experience and goals
-- Offer help to others
-- Keep business cards handy
-- Follow up within a week
-
-**Don'ts:**
-- Don't pressure for sales
-- Don't dominate conversations
-- Don't share without permission
-- Don't overlap others' time
-- Don't make assumptions
 
 ### 4. Mentorship Program
 
@@ -139,50 +109,6 @@ Leadership is about service. We support each other in achieving our goals and se
 - Report progress
 - Express appreciation
 
-**Best Practices:**
-- Set clear expectations upfront
-- Schedule regular (bi-weekly or monthly) meetings
-- Establish mutual goals
-- Provide progress updates
-- Adjust approach as needed
-
-### 5. Content Sharing
-
-**Purpose:** Share learning resources and insights
-
-**Guidelines:**
-
-**What's Welcome:**
-- Course recommendations
-- Articles and research
-- Case studies
-- Personal learning experiences
-- Tools and templates
-- Success stories
-
-**Before Sharing:**
-- Verify the source is credible
-- Check for copyright/licensing
-- Add your perspective or summary
-- Provide context for why it matters
-- Ask permission if personal stories
-
-**Avoid Sharing:**
-- Proprietary company information
-- Personal financial details
-- Unlicensed copyrighted material
-- Unverified claims
-- Excessive self-promotion
-
-**Format Tips:**
-```
-Title: [Meaningful title]
-Source: [Link + Author]
-Why Share: [Brief explanation]
-Key Takeaway: [Main insight]
-Discussion: [Question to spark discussion]
-```
-
 ---
 
 ## Reporting & Moderation
@@ -194,19 +120,6 @@ Discussion: [Question to spark discussion]
 2. **Email:** community@josephrlanecenter.com
 3. **Moderation Form:** Fill out report with context
 4. **Urgent:** Contact support@josephrlanecenter.com
-
-**What to Include:**
-- Specific content/user involved
-- Description of violation
-- Screenshots or links
-- Your contact information
-- When it occurred
-
-**Your Reports Are:**
-- ✅ Handled confidentially
-- ✅ Investigated promptly
-- ✅ Protected from retaliation
-- ✅ Given follow-up updates
 
 ### Moderation Process
 
@@ -226,12 +139,6 @@ Discussion: [Question to spark discussion]
 - Permanent removal from community
 - Content archived for safety
 - Appeal available for consideration
-
-**Transparent Moderation:**
-- We explain our actions
-- We provide recourse
-- We review decisions carefully
-- We publish moderation principles
 
 ---
 
@@ -255,17 +162,6 @@ Discussion: [Question to spark discussion]
 - **Multilingual support** where possible
 - **Flexible scheduling** for different timezones
 
-### Allyship
-
-**How to Be an Ally:**
-1. Listen to experiences of underrepresented people
-2. Speak up when you see discrimination
-3. Educate yourself on diversity issues
-4. Include others in opportunities
-5. Use inclusive language
-6. Be open to feedback
-7. Take action, not just words
-
 ---
 
 ## Privacy & Confidentiality
@@ -279,59 +175,12 @@ Discussion: [Question to spark discussion]
 - Career history (your control who sees it)
 - Conversations (encrypted in private chats)
 
-**What You Share:**
-- Public posts are visible to community
-- Profiles visible unless set to private
-- Study group conversations within group
-- Mentorship discussions stay confidential
-
 **Confidentiality Agreement:**
 - Don't share others' personal information
 - Don't record sessions without permission
 - Don't share learning data publicly
 - Don't mention others without permission
 - Respect others' privacy settings
-
-### Data Security
-
-- 🔒 **End-to-end encryption** for private chats
-- 🔑 **Strong authentication** (2FA available)
-- 🛡️ **Regular security audits**
-- 📋 **GDPR compliant**
-- 🚫 **No data selling**
-- 🔄 **Regular backups**
-
----
-
-## Conflict Resolution
-
-### When Disagreements Happen
-
-**Step 1: Direct Communication**
-- Message the person privately
-- Explain your concern respectfully
-- Listen to their perspective
-- Try to find common ground
-
-**Step 2: Mediation**
-- Contact a community moderator
-- Both parties share perspective
-- Moderator helps find solution
-- Document the resolution
-
-**Step 3: Escalation**
-- If unresolved, contact community team
-- Formal investigation conducted
-- Written decision provided
-- Appeal process available
-
-**Tips for Healthy Conflict:**
-- Focus on behavior, not character
-- Use "I" statements ("I felt...")
-- Listen without interrupting
-- Seek to understand, not win
-- Apologize sincerely if wrong
-- Move forward together
 
 ---
 
@@ -347,7 +196,6 @@ Discussion: [Question to spark discussion]
 - 🗣️ **Speak at events** - Present on topics you know
 - 🙋 **Volunteer** - Help moderate or organize
 - 🎨 **Create content** - Share resources and tools
-- 🐛 **Give feedback** - Help improve the platform
 
 ### Recognition Program
 
@@ -358,20 +206,6 @@ Discussion: [Question to spark discussion]
 - **Mentor** - Officially matched mentees
 - **Content Creator** - Regular resource sharing
 - **Community Champion** - Outstanding contributions
-
-**Annual Recognition:**
-- Community Member of the Year
-- Best Discussion Starter
-- Most Helpful Mentor
-- Rising Leader Award
-- Service Excellence Award
-
-**Perks:**
-- Special badge on profile
-- Featured in newsletter
-- Invitation to leadership council
-- Early access to new features
-- Conference speaking opportunities
 
 ---
 
@@ -397,123 +231,6 @@ Discussion: [Question to spark discussion]
 
 ---
 
-## Learning Etiquette
-
-### Academic Integrity
-
-**Expectations:**
-- ✅ Do your own work
-- ✅ Cite sources properly
-- ✅ Collaborate transparently
-- ✅ Give credit where due
-- ✅ Ask permission before reusing work
-
-**Consequences of Plagiarism:**
-- First offense: Warning + guidance
-- Second offense: Suspension
-- Third offense: Removal
-
-### Respectful Collaboration
-
-**Group Projects:**
-- Communicate expectations clearly
-- Divide work fairly
-- Meet deadlines
-- Credit contributions
-- Resolve conflicts constructively
-
-**Peer Review:**
-- Review thoughtfully and constructively
-- Provide specific feedback
-- Acknowledge what's good
-- Suggest improvements
-- Be encouraging
-
----
-
-## Feedback & Improvement
-
-### How We Listen
-
-**Feedback Channels:**
-- Monthly community surveys
-- Suggestion forum
-- Direct moderator conversations
-- Annual community summit
-- User research interviews
-
-### Acting on Your Input
-
-- 📊 **Transparency:** Share what we heard
-- 🔄 **Implementation:** Explain actions taken
-- 🤝 **Collaboration:** Involve community in decisions
-- 📢 **Communication:** Regular updates
-- 📈 **Measurement:** Track improvements
-
----
-
-## FAQs
-
-### Q: What if I see inappropriate content?
-**A:** Use the Report button, email community@josephrlanecenter.com, or contact a moderator. We respond within 24 hours.
-
-### Q: Can I share my company's products?
-**A:** Yes, if it's relevant and honest. Avoid excessive self-promotion. Follow "5/95 rule" - 5% self-promotion, 95% value.
-
-### Q: How do I find study groups?
-**A:** Visit the Study Groups section, filter by course/topic, or create your own group.
-
-### Q: What if I disagree with a moderation decision?
-**A:** Submit an appeal to the moderation team within 7 days with your reasoning. We'll review and respond.
-
-### Q: Can I share content from other platforms?
-**A:** Yes, if you have permission. Include the source and original author. Don't violate copyright.
-
-### Q: How do I report spam or harassment?
-**A:** Use the Report feature, include relevant details and context, and we'll investigate immediately.
-
-### Q: Is there support for non-English speakers?
-**A:** We're working on multilingual support. Contact us about your language needs.
-
-### Q: Can I delete my account?
-**A:** Yes. Go to Settings > Privacy > Delete Account. Your data will be removed within 30 days.
-
----
-
-## Community Moderation Team
-
-### Meet Our Moderators
-
-**Role:** Enforce guidelines, resolve conflicts, create positive environment
-
-**Responsibilities:**
-- Monitor discussions
-- Respond to reports
-- Resolve disputes
-- Prevent harassment
-- Support new members
-
-**Contact:** moderators@josephrlanecenter.com
-
----
-
-## Amendments
-
-**Last Updated:** May 25, 2026
-
-**Change Log:**
-- v1.0 - Initial community guidelines
-- v1.1 - Added accessibility features
-- v1.2 - Enhanced privacy protections
-
-**Future Updates:**
-- Community voting on major changes
-- Quarterly review process
-- Member feedback integration
-- Transparent announcement of changes
-
----
-
 ## Contact & Support
 
 ### Community Team
@@ -521,14 +238,6 @@ Discussion: [Question to spark discussion]
 - **Slack:** #community-support
 - **Office Hours:** Mon-Fri 9AM-5PM EST
 - **Response Time:** 24 hours
-- **Emergency:** security@josephrlanecenter.com
-
-### Helpful Resources
-- Community Handbook: [Link]
-- Moderation Policy: [Link]
-- Privacy Policy: [Link]
-- Terms of Service: [Link]
-- Accessibility Policy: [Link]
 
 ---
 
@@ -542,4 +251,4 @@ We believe that a strong, supportive community accelerates growth, fosters innov
 
 ---
 
-*This document is a living document and will be updated based on community feedback and needs. Your participation in shaping these guidelines is welcome and valued.*
+*Last Updated: May 25, 2026*
